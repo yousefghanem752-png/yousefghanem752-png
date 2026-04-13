@@ -28,8 +28,6 @@ Passionate about programming, backend development and problem solving.
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-07405E?style=flat&logo=sqlite&logoColor=white)
-
-### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -39,52 +37,9 @@ Passionate about programming, backend development and problem solving.
 - Database Design  
 - UML Diagrams (Visual Paradigm)
 
-### ⚙️ Tools
+### ⚙️ Tools & IDEs
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-
----
-
-## 💡 What You’ll Find On My GitHub
-
-📂 Projects about:
-
-- Data Structures & Algorithms  
-- Problem Solving  
-- Small Applications  
-- Web Development Practice  
-- University Projects  
-
-I’m constantly learning and adding new projects 🚀
-
----
-
-## 📚 Currently Learning
-
-- Backend Development  
-- API Design Best Practices  
-- Software Architecture  
-- Databases Deep Dive  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="45%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="45%">
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: ADD_LINKEDIN_IF_YOU_HAVE_ONE
-
----
-
-⭐ From [Yousef Ghanem](https://github.com/YOUR_USERNAME)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/Intelli

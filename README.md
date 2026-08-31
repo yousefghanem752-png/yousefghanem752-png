@@ -21,7 +21,7 @@ C# | .NET | ASP.NET Core | SQL | JavaScript
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student and Junior Full-Stack .NET Developer interested in building web applications and improving my problem-solving skills.
+I'm a Junior Full-Stack .NET Developer interested in building web applications and improving my problem-solving skills.
 
 I mainly work with **C#, .NET, ASP.NET Core, SQL, JavaScript, HTML, and CSS**, while also having experience with Java, Python, and C.
 

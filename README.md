@@ -9,7 +9,7 @@
 C# | .NET | ASP.NET Core | SQL | JavaScript | React
 
 [![GitHub](https://github.com/yousefghanem752-png)
-[![LinkedIn](www.linkedin.com/in/youseftarek511)
+[![LinkedIn]www.linkedin.com/in/youseftarek511
 
 </div>
 

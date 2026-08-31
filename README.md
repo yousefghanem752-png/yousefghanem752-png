@@ -6,10 +6,14 @@
 
 ### Junior Full-Stack .NET Developer
 
-C# | .NET | ASP.NET Core | SQL | JavaScript | React
+C# | .NET | ASP.NET Core | SQL | JavaScript
 
-[![GitHub](https://github.com/yousefghanem752-png)
-[![LinkedIn]www.linkedin.com/in/youseftarek511
+<a href="https://github.com/yousefghanem752-png">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/youseftarek511">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
@@ -19,7 +23,7 @@ C# | .NET | ASP.NET Core | SQL | JavaScript | React
 
 I'm a Computer Science student and Junior Full-Stack .NET Developer interested in building web applications and improving my problem-solving skills.
 
-I mainly work with **C#, .NET, ASP.NET Core, SQL, JavaScript, and React**, while also having experience with Java, Python, and C.
+I mainly work with **C#, .NET, ASP.NET Core, SQL, JavaScript, HTML, and CSS**, while also having experience with Java, Python, and C.
 
 Most of my experience comes from university and personal projects where I practice programming, OOP, database design, and web development.
 
@@ -31,30 +35,29 @@ I'm currently focusing on improving my skills in **Full-Stack .NET development**
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-07405E?style=flat&logo=sqlite&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat\&logo=csharp\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-07405E?style=flat\&logo=sqlite\&logoColor=white)
 
 ### Web Development
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat\&logo=dotnet\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat\&logo=dotnet\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat\&logo=visualstudiocode\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat\&logo=visualstudio\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat\&logo=intellijidea\&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat\&logo=apache\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 
 ---
 
@@ -68,20 +71,20 @@ The project focuses on creating a simple learning experience where users can bro
 
 **Technologies:**
 
-- HTML
-- CSS
-- JavaScript
-- JSON
-- Local Storage
+* HTML
+* CSS
+* JavaScript
+* JSON
+* Local Storage
 
 **What I worked on:**
 
-- Building the user interface
-- Creating reusable page components
-- Handling data using JSON
-- Using Local Storage to save user-related data
-- Implementing client-side functionality with JavaScript
-- Making the platform responsive and easy to navigate
+* Building the user interface
+* Creating reusable page components
+* Handling data using JSON
+* Using Local Storage to save user-related data
+* Implementing client-side functionality with JavaScript
+* Making the platform responsive and easy to navigate
 
 > This project was built as a front-end application without a backend.
 
@@ -95,17 +98,17 @@ The application handles basic hotel operations such as rooms, customers, and res
 
 **Technologies:**
 
-- Java
-- OOP
-- CSV File Storage
+* Java
+* OOP
+* CSV File Storage
 
 **Main Concepts:**
 
-- Object-Oriented Programming
-- Classes & Objects
-- File Handling
-- Data Management
-- Application Logic
+* Object-Oriented Programming
+* Classes & Objects
+* File Handling
+* Data Management
+* Application Logic
 
 ---
 
@@ -115,15 +118,15 @@ I've also worked on different university projects related to databases, software
 
 **Topics include:**
 
-- SQL
-- Database Design
-- ERD
-- UML
-- OOP
-- Data Structures
-- Algorithms
-- C#
-- Java
+* SQL
+* Database Design
+* ERD
+* UML
+* OOP
+* Data Structures
+* Algorithms
+* C#
+* Java
 
 ---
 
@@ -131,30 +134,29 @@ I've also worked on different university projects related to databases, software
 
 ### Programming
 
-- Object-Oriented Programming
-- Data Structures
-- Algorithms
-- Problem Solving
-- File Handling
-- Basic Software Design
+* Object-Oriented Programming
+* Data Structures
+* Algorithms
+* Problem Solving
+* File Handling
+* Basic Software Design
 
 ### Databases
 
-- SQL
-- Database Design
-- ERD
-- CRUD Operations
-- Relational Databases
+* SQL
+* Database Design
+* ERD
+* CRUD Operations
+* Relational Databases
 
 ### Web Development
 
-- HTML & CSS
-- JavaScript
-- React
-- C#
-- ASP.NET Core
-- .NET
-- API Development
+* HTML & CSS
+* JavaScript
+* C#
+* ASP.NET Core
+* .NET
+* API Development
 
 ---
 
@@ -162,14 +164,13 @@ I've also worked on different university projects related to databases, software
 
 I'm currently focusing on:
 
-- ASP.NET Core
-- Web APIs
-- Entity Framework Core
-- SQL & Database Design
-- React
-- Software Architecture
-- Data Structures & Algorithms
-- Problem Solving
+* ASP.NET Core
+* Web APIs
+* Entity Framework Core
+* SQL & Database Design
+* Software Architecture
+* Data Structures & Algorithms
+* Problem Solving
 
 ---
 
@@ -177,9 +178,9 @@ I'm currently focusing on:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yousefghanem752-png&show_icons=true&theme=tokyonight" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefghanem752-png&theme=tokyonight" width="48%"/>
 
 </div>
 
@@ -195,9 +196,9 @@ I'm interested in building applications that are useful, maintainable, and easy 
 
 ## 📫 Contact
 
-- 💻 GitHub:(https://github.com/yousefghanem752-png)
-- 💼 LinkedIn: www.linkedin.com/in/youseftarek511
-- 📧 Email: yousefghanem752@gmail.com
+* 💻 GitHub: [yousefghanem752-png](https://github.com/yousefghanem752-png)
+* 💼 LinkedIn: [youseftarek511](https://www.linkedin.com/in/youseftarek511)
+* 📧 Email: [yousefghanem752@gmail.com](mailto:yousefghanem752@gmail.com)
 
 ---
 

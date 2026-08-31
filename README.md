@@ -196,8 +196,8 @@ I'm interested in building applications that are useful, maintainable, and easy 
 ## 📫 Contact
 
 - 💻 GitHub: https://github.com/YOUR_USERNAME
-- 💼 LinkedIn: ADD_LINKEDIN_IF_YOU_HAVE_ONE
-- 📧 Email: ADD_YOUR_EMAIL
+- 💼 LinkedIn: www.linkedin.com/in/youseftarek511
+- 📧 Email: yousefghanem752@gmail.com
 
 ---
 

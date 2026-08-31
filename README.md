@@ -4,9 +4,9 @@
 
 # 👋 Hi, I'm Yousef Ghanem
 
-### 💻 Junior Full-Stack .NET Developer
+### Junior Full-Stack .NET Developer
 
-I build practical, user-friendly web applications with .NET, C#, and modern web technologies.
+C# | .NET | ASP.NET Core | SQL | JavaScript | React
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](ADD_LINKEDIN_IF_YOU_HAVE_ONE)
@@ -15,48 +15,30 @@ I build practical, user-friendly web applications with .NET, C#, and modern web 
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **Junior Full-Stack .NET Developer** focused on building practical web applications that solve real problems.
+I'm a Computer Science student and Junior Full-Stack .NET Developer interested in building web applications and improving my problem-solving skills.
 
-I enjoy working across the full development process — from understanding requirements and designing databases to building backend functionality and creating clear, user-friendly interfaces.
+I mainly work with **C#, .NET, ASP.NET Core, SQL, JavaScript, and React**, while also having experience with Java, Python, and C.
 
-My experience comes from **academic and personal software projects**, where I have worked with C#, .NET, ASP.NET Core, SQL, JavaScript, React, OOP, Data Structures, and Database Design.
+Most of my experience comes from university and personal projects where I practice programming, OOP, database design, and web development.
 
-I'm continuously improving my skills through practical projects and freelance work, with a focus on understanding client needs and turning ideas into working digital solutions.
-
----
-
-## 🎯 What I Build
-
-I help **small businesses, startups, and individuals** turn their ideas into practical web applications.
-
-### 🌐 Custom Web Applications
-Building web applications around specific business or personal requirements.
-
-### 🏢 Business Management Systems
-Applications for managing customers, products, orders, bookings, and other business processes.
-
-### 🗄️ Database-Driven Applications
-Connecting frontend, backend, and database components into one complete application.
-
-### ⚙️ Backend & API Development
-Developing backend functionality and APIs to handle application logic and data.
+I'm currently focusing on improving my skills in **Full-Stack .NET development** and building more practical projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-07405E?style=flat&logo=sqlite&logoColor=white)
 
-### 🌐 Web Development
+### Web Development
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -64,146 +46,130 @@ Developing backend functionality and APIs to handle application logic and data.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### 🧠 CS Fundamentals
-
-- Data Structures & Algorithms
-- Problem Solving
-- Object-Oriented Programming (OOP)
-- Database Design
-- UML Diagrams
-- Visual Paradigm
-
-### ⚙️ Tools & IDEs
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![Code::Blocks](https://img.shields.io/badge/CodeBlocks-000000?style=flat&logo=codeblocks&logoColor=white)
-![Visual Paradigm](https://img.shields.io/badge/Visual_Paradigm-FF6F00?style=flat&logo=visualparadigm&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
+
+### 🎓 Educational Platform
+
+A front-end educational platform inspired by online learning websites such as Khan Academy.
+
+The project focuses on creating a simple learning experience where users can browse educational content and interact with the platform through the browser.
+
+**Technologies:**
+
+- HTML
+- CSS
+- JavaScript
+- JSON
+- Local Storage
+
+**What I worked on:**
+
+- Building the user interface
+- Creating reusable page components
+- Handling data using JSON
+- Using Local Storage to save user-related data
+- Implementing client-side functionality with JavaScript
+- Making the platform responsive and easy to navigate
+
+> This project was built as a front-end application without a backend.
+
+---
 
 ### 🏨 Hotel Reservation System
 
-A Java-based hotel reservation system developed as an academic/personal project for managing hotel rooms, customers, and reservations.
+A Java-based hotel reservation system developed as an academic project.
+
+The application handles basic hotel operations such as rooms, customers, and reservations.
 
 **Technologies:**
+
 - Java
 - OOP
 - CSV File Storage
 
-**Focus:**
+**Main Concepts:**
+
 - Object-Oriented Programming
+- Classes & Objects
+- File Handling
 - Data Management
 - Application Logic
-- File Handling
-
----
-
-### 🌐 Full-Stack Web Applications
-
-Academic and personal web application projects focused on building complete applications where the **frontend, backend, and database work together**.
-
-**Technologies:**
-- C#
-- ASP.NET Core
-- .NET
-- SQL
-- HTML
-- CSS
-- JavaScript
-- React
-
-**Focus:**
-- Backend Development
-- Database Integration
-- CRUD Operations
-- Application Logic
-- User-Friendly Interfaces
 
 ---
 
 ### 🗄️ Database & Software Projects
 
-Projects focused on software development fundamentals, database design, and problem solving.
+I've also worked on different university projects related to databases, software engineering, and programming fundamentals.
 
-**Technologies & Concepts:**
+**Topics include:**
+
 - SQL
 - Database Design
+- ERD
+- UML
+- OOP
+- Data Structures
+- Algorithms
 - C#
 - Java
-- Data Structures
-- OOP
-- UML Diagrams
-
-**Focus:**
-- Database Modeling
-- Software Design
-- Data Structures
-- Problem Solving
-- Object-Oriented Design
 
 ---
 
-## 🧩 How I Approach Projects
+## 🧠 What I Know
 
-### 01 — Understand
+### Programming
 
-Understand the client's needs and the problem the application should solve.
+- Object-Oriented Programming
+- Data Structures
+- Algorithms
+- Problem Solving
+- File Handling
+- Basic Software Design
 
-### 02 — Plan
+### Databases
 
-Define the main features, application structure, and database design.
+- SQL
+- Database Design
+- ERD
+- CRUD Operations
+- Relational Databases
 
-### 03 — Build
+### Web Development
 
-Develop the frontend, backend, and database as one connected application.
-
-### 04 — Improve
-
-Test the application, fix issues, and improve the overall user experience.
+- HTML & CSS
+- JavaScript
+- React
+- C#
+- ASP.NET Core
+- .NET
+- API Development
 
 ---
 
 ## 📚 Currently Learning
 
-I'm continuously improving my development skills in:
+I'm currently focusing on:
 
-- Full-Stack .NET Development
 - ASP.NET Core
-- Backend Development
-- API Design
-- Software Architecture
+- Web APIs
+- Entity Framework Core
 - SQL & Database Design
 - React
-- Problem Solving
-- Data Structures & Algorithms
-
----
-
-## 💡 What You'll Find On My GitHub
-
-📂 My GitHub contains projects and learning work related to:
-
-- Full-Stack Web Development
-- .NET & C#
-- Backend Development
-- Database Applications
+- Software Architecture
 - Data Structures & Algorithms
 - Problem Solving
-- OOP
-- Java Applications
-- Python Projects
-- C Programming
-- University Projects
-- Software Engineering Practice
-
-I'm continuously learning, building, and improving through practical projects. 🚀
 
 ---
 
@@ -211,9 +177,9 @@ I'm continuously learning, building, and improving through practical projects. �
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="45%">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="45%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%"/>
 
 </div>
 
@@ -221,13 +187,13 @@ I'm continuously learning, building, and improving through practical projects. �
 
 ## 🎯 My Goal
 
-To grow as a **Full-Stack .NET Developer** by building practical applications, solving real problems, and gaining experience through continuous learning and freelance projects.
+My goal is to become a strong **Full-Stack .NET Developer** by working on real projects, improving my problem-solving skills, and gaining practical experience.
+
+I'm interested in building applications that are useful, maintainable, and easy to use.
 
 ---
 
-## 📫 Let's Connect
-
-If you have an idea for a web application or want to discuss a project, feel free to reach out.
+## 📫 Contact
 
 - 💻 GitHub: https://github.com/YOUR_USERNAME
 - 💼 LinkedIn: ADD_LINKEDIN_IF_YOU_HAVE_ONE
@@ -237,10 +203,8 @@ If you have an idea for a web application or want to discuss a project, feel fre
 
 <div align="center">
 
-### 🚀 Have an idea for a web application?
+### Thanks for visiting my profile! 👋
 
-**Let's turn your idea into a practical digital solution.**
-
-⭐ From **Yousef Ghanem**
+⭐ **Yousef Ghanem**
 
 </div>

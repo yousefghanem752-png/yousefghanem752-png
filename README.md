@@ -8,8 +8,8 @@
 
 C# | .NET | ASP.NET Core | SQL | JavaScript | React
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](ADD_LINKEDIN_IF_YOU_HAVE_ONE)
+[![GitHub](https://github.com/yousefghanem752-png)
+[![LinkedIn](www.linkedin.com/in/youseftarek511)
 
 </div>
 
